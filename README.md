@@ -372,6 +372,9 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [G6](https://github.com/antvis/g6) - A graph visualization engine.
 * [Infographic](https://github.com/antvis/Infographic) - A next-generation declarative infographic visualization engine.
 * [d3-3d](https://github.com/Niekes/d3-3d) - 3D charts and shapes for D3.js, projected to plain SVG or canvas with no WebGL needed.
+* [Syncfusion JavaScript Charts](https://www.syncfusion.com/javascript-ui-controls/js-charts) - 55+ interactive chart and graph types.
+* [Syncfusion JavaScript Diagram](https://www.syncfusion.com/diagram-sdk/javascript-diagram) - Diagram library for flowcharts, org charts, mind maps and BPMN diagrams.
+* [Syncfusion JavaScript Gantt Chart](https://www.syncfusion.com/gantt-sdk/javascript-gantt-chart) - Gantt chart with task dependencies, resource view, timeline zooming and drag-and-drop editing.
 
 There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](https://www.anychart.com/), [plotly](https://plotly.com/), and [lightning chart](https://www.arction.com/lightningchart-js/).
 
@@ -387,6 +390,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
  * [Jspreadsheet CE](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
  * [RevoGrid](https://github.com/revolist/revogrid) - RevoGrid is a fast, responsive excel like data grid library for modern web applications.
+* [Syncfusion JavaScript Spreadsheet](https://www.syncfusion.com/spreadsheet-editor-sdk/javascript-spreadsheet-editor) - Excel-like spreadsheet with formulas, formatting and XLSX import and export.
 
 ## Editors
 
@@ -414,6 +418,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [popline](https://github.com/kenshin54/popline) - Popline is an HTML5 Rich-Text-Editor Toolbar.
 * [Summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor.
 * [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
+* [Syncfusion JavaScript Rich Text Editor](https://www.syncfusion.com/rich-text-editor-sdk/javascript-rich-text-editor) - WYSIWYG and Markdown editor with tables, image upload, paste cleanup and a customizable toolbar.
+* [Syncfusion JavaScript DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/javascript-docx-editor) - Word document editor for creating, editing and viewing DOCX files in the browser.
 
 ## Documentation
 
@@ -814,6 +820,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Duet Date Picker](https://github.com/duetds/date-picker) - open source version of Duet Design System’s accessible date picker, WCAG 2.1 accessibility complaint
 * [tui.calendar](https://github.com/nhn/tui.calendar) - A JavaScript schedule calendar that is full featured. Now your service just got the customizable calendar.
 * [Schedule-X](https://github.com/schedule-x/schedule-x) - Material design event calendar. Features drag & drop, dark mode, multiple views and more.
+* [Syncfusion JavaScript Scheduler](https://www.syncfusion.com/scheduler-sdk/javascript-scheduler) - Event calendar with day, week, month, timeline and agenda views, resource grouping and drag-and-drop.
 
 ### Select
 
@@ -910,6 +917,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Packery](https://packery.metafizzy.co/) - A grid layout library that uses a bin-packing algorithm. Useable for draggable layouts.
 * [Isotope](https://isotope.metafizzy.co/) - A filterable, sortable, grid layout library. Can implement Masonry, Packery, and other layouts.
 * [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid/) - Grid based on CSS3 flexbox.
+* [Syncfusion JavaScript Data Grid](https://www.syncfusion.com/javascript-ui-controls/js-data-grid) - Data grid with virtualization, filtering, grouping, editing and export.
 
 ## Frameworks
 
@@ -956,6 +964,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [jqvmap](https://github.com/manifestinteractive/jqvmap) - jQuery Vector Map Library.
 * [OpenLayers3](https://openlayers.org/) - A high-performance, feature-packed library for all your mapping needs.
 * [H3js](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system ported to javascript by Uber for geospatial visualization.
+* [Syncfusion JavaScript Maps](https://www.syncfusion.com/javascript-ui-controls/js-maps-library) - Maps library for geographical data with markers, bubbles, legends and GeoJSON shapes.
 
 ## Video/Audio
 
